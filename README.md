@@ -15,6 +15,7 @@
 ## 프로젝트 진행과정
 ![image](https://user-images.githubusercontent.com/112916825/229913316-1133fbfd-fb71-4089-a263-048890f0da4f.png)
 <br>
+- 회의록 : https://docs.google.com/document/d/1-qN3jMRkYOFgVDxWXlTQl-ZqO8XpngszzU77BOFhCo8/edit
 
 ## ERD
 ![image](https://user-images.githubusercontent.com/112916825/229908493-14e5e6d8-40ed-4929-9e88-7e11068d646c.png)
